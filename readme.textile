@@ -1,0 +1,11 @@
+h1. jQuery.flurid
+
+The jQuery.flurid plugin makes developing with "Flurid":https://github.com/kflorence/flurid easier. Please refer to the wiki for a "full list of all the features":https://github.com/kflorence/jquery-flurid/wiki/Features.
+
+h2. Dependencies
+
+jQuery.flurid requires the "Flurid Framework":https://github.com/kflorence/flurid and the "jQuery Library":http://jquery.com/ (version 1.2.3 or higher).
+
+h2. Licencse
+
+jQuery.flurid is dual licensed under the MIT and GPL licenses. See license-gpl and license-mit for more information.
