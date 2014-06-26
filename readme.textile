@@ -1,6 +1,6 @@
 h1. jQuery.flurid
 
-The jQuery.flurid plugin makes developing with "Flurid":https://github.com/kflorence/flurid easier. Please refer to the wiki for a "full list of all the features":https://github.com/kflorence/jquery-flurid/wiki/Features.
+The jQuery.flurid plugin makes developing with "Flurid":https://github.com/kflorence/flurid easier. Please refer to the wiki for a "full list of all the features":https://github.com/kflorence/flurid/wiki/jQuery.flurid.
 
 h2. Dependencies
 
